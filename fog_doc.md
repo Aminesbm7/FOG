@@ -91,6 +91,7 @@ Entrem al servidor fog via web i creem una nova imatge per al ubuntu.
 ![imatge](/imgs/Selecció_276.png)
 
 A la maquina Ubuntu 20.04, entrem a configuracio i canviem l'ordre d'arrancada establint com a primera opció la xarxa (tambe es pot realitzar fent clic sobre f12 al boot).
+
 ![imatge](/imgs/Selecció_173.png)
 
 Es possible que el IPXE ens demani la ip del servidor FOG.
