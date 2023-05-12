@@ -184,6 +184,7 @@ Descarreguem el SmartInstaller.
 ![imatge](/imgs/Selecció_304.png)
 
 Durant la instal·lació, indiquem la ip del servidor fog a l'apartat següent.
+
 ![imatge](/imgs/Selecció_307.png)
 
 Una vegada instal·lat el fiquem en marxa a serveis.
