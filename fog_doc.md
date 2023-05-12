@@ -10,7 +10,7 @@ Realitzarem la instal·lació del FOG server sobre un **Ubuntu 20.04**, ja que e
 ## Instal·lació del servidor FOG
 
 Entrem al lloc web de fog project i descarguem el fitxer tar.gz.
-![imatge](imgs/selecció_105.png)
+![imatge](/imgs/selecció_105.png)
 Descmprimim el fitxer i entrem a la carpeta /bin i executem el instal·lador
 imatge
 Dins del instal·lador treim la segona opció "Debian".
