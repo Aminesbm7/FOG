@@ -23,7 +23,7 @@ Dins del instal·lador triem la segona opció "Debian".
 Triem instal·lacio normal, deixem les interficies per defecte, indiquem la ip del router, si a "handle DHCP" i indiquem la ip del router.
 ![imatge](/imgs/Selecció_210.png)
 
-Hens demanara d'accedir al servidor via web per finalitzar la instal·lació.
+Demanara d'accedir al servidor via web per finalitzar la instal·lació.
 ![imatge](/imgs/Selecció_212.png)
 
 Click sobre "Update/Install now".
