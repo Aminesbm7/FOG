@@ -49,6 +49,7 @@ Entrem al servidor fog via web i creem una nova imatge.
 ![imatge](/imgs/Selecció_162.png)
 
 A la maquina Windows 10, entrem a configuracio i canviem l'ordre d'arrancada establint com a primera opció la xarxa (tambe es pot realitzar fent clic sobre f12 al boot).
+
 ![imatge](/imgs/Selecció_173.png)
 
 Es possible que el IPXE ens demani la ip del servidor FOG.
