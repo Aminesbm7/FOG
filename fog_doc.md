@@ -14,6 +14,7 @@ Entrem al lloc web de fog project i descarguem el fitxer tar.gz.
 
 Descmprimim el fitxer i entrem a la carpeta /bin i executem el instal·lador
 ![imatge](/imgs/Selecció_106.png)
+
 ![imatge](/imgs/Selecció_107.png)
 
 Dins del instal·lador treim la segona opció "Debian".
@@ -27,6 +28,7 @@ Hens demanara d'accedir al servidor via web per finalitzar la instal·lació.
 
 Click sobre "Update/Install now".
 ![imatge](/imgs/Selecció_213.png)
+
 ![imatge](/imgs/Selecció_116.png)
 
 Per acabar la configuració, aturem el servei systemd-resolved i modifiquem l'arxiu "/etc/resolv.conf".
@@ -66,6 +68,7 @@ Per identificar-lo li canviem el nom.
 
 Finalment per capturar el os, al apartat "All hosts" fem clic sobre la icona taronja "capture" i tornem a iniciar el Windows de la mateixa manera.
 ![imatge](/imgs/Selecció_269.png)
+
 ![imatge](/imgs/Selecció_271.png)
 
 Automaticament es començara a clonar el os.
@@ -118,6 +121,7 @@ Desde el servidor podem comprovar la mida de la imatge que hem capturat.
 
 Creem una nova maquina virtual amb els parametres necessaris, i li indiquem que arranqui per xarxa com a primera opció.
 ![imatge](/imgs/Selecció_285.png)
+
 ![imatge](/imgs/Selecció_279.png)
 
 El IPXE es probable que ens demani la ip del servidor FOG.
@@ -143,6 +147,7 @@ Una vegada finalitzada la instal·lació, obrim la maquina i podrem comprovar qu
 
 Creem una nova maquina virtual amb els parametres necessaris, i li indiquem que arranqui per xarxa com a primera opció.
 ![imatge](/imgs/Selecció_290.png)
+
 ![imatge](/imgs/Selecció_291.png)
 
 El IPXE es probable que ens demani la ip del servidor FOG.
@@ -200,6 +205,7 @@ Automaticament es crear una tasca per instal·lar el 7zip al client.
 ![imatge](/imgs/Selecció_311.png)
 
 En molt poc temps ja tindrem el 7zip instal·lat al client, no ens domarem compte de la instal·lació ja que al snapin teniem la opció "/quiet" habilitada.
+
 ![imatge](/imgs/Selecció_328.png)
 
 
