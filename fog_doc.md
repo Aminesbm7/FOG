@@ -180,6 +180,7 @@ alli fem clic sobre **"FOG Client"** situat a la part inferior.
 ![imatge](/imgs/Selecció_303.png)
 
 Descarreguem el SmartInstaller.
+
 ![imatge](/imgs/Selecció_304.png)
 
 Durant la instal·lació, indiquem la ip del servidor fog a l'apartat següent.
