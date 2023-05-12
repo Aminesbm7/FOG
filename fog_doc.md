@@ -20,7 +20,7 @@ Descmprimim el fitxer i entrem a la carpeta /bin i executem el instal·lador
 Dins del instal·lador treim la segona opció "Debian".
 ![imatge](/imgs/Selecció_108.png)
 
-Triem instal·lacio normal, deixem les interficies per defecte, indiquem la ip del router, si a "handle DHCP" i indiquem la ip del servidor i a totes les demes opcions per defecte.
+Triem instal·lacio normal, deixem les interficies per defecte, indiquem la ip del router, si a "handle DHCP" i indiquem la ip del servidor.
 ![imatge](/imgs/Selecció_210.png)
 
 Hens demanara d'accedir al servidor via web per finalitzar la instal·lació.
