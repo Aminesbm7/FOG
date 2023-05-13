@@ -213,7 +213,7 @@ En molt poc temps ja tindrem el 7zip instal·lat al client, no ens domarem compt
 ![imatge](/imgs/Selecció_328.png)
 
 
-Hasta aqui el projecte sobre el servidor FOG!
+Fins aqui el projecte sobre el servidor FOG!
 
 © Amine Sbaay, Guillem Sancho
 
