@@ -12,7 +12,7 @@ Realitzarem la instal·lació del FOG server sobre un **Ubuntu 20.04**, ja que e
 Entrem al lloc web de fog project i descarguem el fitxer tar.gz.
 ![imatge](/imgs/Selecció_105.png)
 
-Descmprimim el fitxer i entrem a la carpeta /bin i executem el instal·lador
+Descomprimim el fitxer i entrem a la carpeta /bin i executem el instal·lador
 ![imatge](/imgs/Selecció_106.png)
 
 ![imatge](/imgs/Selecció_107.png)
@@ -208,7 +208,7 @@ Li indiquem la del 7zip i fem clic sobre "Task".
 Automaticament es crear una tasca per instal·lar el 7zip al client.
 ![imatge](/imgs/Selecció_311.png)
 
-En molt poc temps ja tindrem el 7zip instal·lat al client, no ens domarem compte de la instal·lació ja que al snapin teniem la opció "/quiet" habilitada.
+En molt poc temps ja tindrem el 7zip instal·lat al client, no ens donarem compte de la instal·lació ja que al snapin teniem la opció "/quiet" habilitada.
 
 ![imatge](/imgs/Selecció_328.png)
 
