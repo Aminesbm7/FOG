@@ -210,6 +210,7 @@ Automaticament es crear una tasca per instal·lar el 7zip al client.
 
 En molt poc temps ja tindrem el 7zip instal·lat al client, no ens donarem compte de la instal·lació ja que al snapin teniem la opció "/quiet" habilitada.
 
+![imatge](/imgs/Selecció_611.png)
 ![imatge](/imgs/Selecció_328.png)
 
 
