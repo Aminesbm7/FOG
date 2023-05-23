@@ -213,6 +213,9 @@ En molt poc temps ja tindrem el 7zip instal·lat al client, no ens donarem compt
 ![imatge](/imgs/Selecció_611.png)
 ![imatge](/imgs/Selecció_328.png)
 
+Log del fog client:
+
+![imatge](/imgs/Selecció_612.png)
 
 Fins aqui el projecte sobre el servidor FOG!
 
